@@ -10,4 +10,6 @@ descargue el zip o gzip y ejecute como cualquier otro bash script o invoque a ba
   
 ## Licencia
 Apache License Version 2.0
+  
+  
 *javierrweiss 2022*
