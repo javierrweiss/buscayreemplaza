@@ -11,7 +11,7 @@ descargue el zip o gzip y ejecute como cualquier otro bash script o invoque a ba
   buscayreemplaza.clj -e *expresion* *reemplazo* *archivo* *ruta* -b *rutas-excluidas* ó bb buscayreemplaza.clj -e *expresion* *reemplazo* *archivo* *ruta* -b *rutas-excluidas*
   
 ## Licencia
-Apache License Version 2.0
+Distributed under Apache License Version 2.0 either version 0.0.1 or (at your option) any later version.
   
   
-*javierrweiss 2022*
+Copyright © *javierrweiss 2022*
